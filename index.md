@@ -1,9 +1,12 @@
 ---
-title: WhizbangApps
+title: Promptio
 ---
 
-# WhizbangApps
+# Promptio
 
-Privacy policies for our apps:
+Read your script while you film. Promptio scrolls your lines over the live camera so you keep eye contact — then export clean video.
 
-- [Promptio](./promptio)
+---
+
+- [Privacy Policy](./privacy)
+- [Support](mailto:whizb.apps@gmail.com)
