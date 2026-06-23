@@ -1,10 +1,12 @@
 ---
+layout: default
 title: Promptio — Privacy Policy
 ---
 
-# Privacy Policy — Promptio
+<div class="prose">
 
-**Last updated: 23 June 2026**
+<h1>Privacy Policy</h1>
+<p class="updated">Last updated: 23 June 2026</p>
 
 Promptio ("the app") is developed by Mark Wong ("we", "us"). This policy explains what data the app accesses and how it is used.
 
@@ -58,4 +60,6 @@ If this policy changes, the updated version will be posted at the same URL with 
 
 ## Contact
 
-Questions? Email us at **whizb.apps@gmail.com**
+Questions? Email us at [whizb.apps@gmail.com](mailto:whizb.apps@gmail.com)
+
+</div>
