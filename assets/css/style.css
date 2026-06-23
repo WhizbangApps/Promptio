@@ -263,6 +263,57 @@ main { flex: 1; }
 .prose a { color: var(--accent); }
 .prose a:hover { color: var(--accent-hover); }
 
+/* Callout box */
+.callout {
+  background: rgba(59, 130, 246, 0.08);
+  border: 1px solid rgba(59, 130, 246, 0.25);
+  border-radius: var(--radius);
+  padding: 20px 24px;
+  margin: 16px 0 24px;
+}
+.callout strong {
+  display: block;
+  color: var(--text);
+  margin-bottom: 8px;
+  font-size: 1rem;
+}
+.callout p {
+  margin-bottom: 0;
+  font-size: 0.9rem;
+}
+
+/* Permission cards */
+.permission-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 16px 0 24px;
+}
+.permission-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px 20px;
+}
+.permission-icon {
+  font-size: 1.4rem;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+.permission-item strong {
+  display: block;
+  color: var(--text);
+  margin-bottom: 4px;
+  font-size: 0.95rem;
+}
+.permission-item p {
+  margin-bottom: 0;
+  font-size: 0.875rem;
+}
+
 /* ── Footer ── */
 
 .site-footer {
